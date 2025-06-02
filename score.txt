@@ -1,0 +1,14 @@
+Motasem, Level2,10
+Motasem, Level1,20
+Motasem, Level1,40
+Motasem, Level2,50
+HHD, Level1,20
+blah, Level1,35
+njn, Level1,40
+Hamza, Level1,50
+Test, Level1,30kmk, Level1,30
+kmk, Level2,0
+AREF, Level1,10
+AREF, Level2,5
+gg, Level1,-10
+gg, Level2,15
